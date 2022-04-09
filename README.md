@@ -14,10 +14,10 @@
 <!--
 > C# side : [CC-Mehdi](https://github.com/cc-Mehdi)
 -->
-
+'''
 requirement library :
 colorama , requests
-
+'''
 How to install :
 
 - [pip install colorama](https://pypi.org/project/colorama/)
