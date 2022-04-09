@@ -16,10 +16,8 @@
 -->
 ---
 requirement library :
+colorama , requests
 ---
-<br>
-'colorama' , 'requests'
-
 <br>
 How to install :
 
