@@ -6,7 +6,7 @@
 
 <!-- introduction of team  -->
 **who involved in this project:**
-> python side : [Ali-Sharify](https://github.com/alisharifyy)
+> Python side : [Ali-Sharify](https://github.com/alisharifyy)
 
 
 > php side : [Ali-Rad](https://github.com/Ali-Moattarirad)
@@ -14,6 +14,15 @@
 <!--
 > C# side : [CC-Mehdi](https://github.com/cc-Mehdi)
 -->
+
+requirement library :
+colorama , requests
+
+How to install :
+
+- pip3 install colorama
+- pip3 install requests
+
 
 About : ----
 
