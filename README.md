@@ -31,7 +31,7 @@ How to install :
 ---
 
 
-# > image:
+> # images :
 
 # - step 1
 ![](images/1.png)
