@@ -5,7 +5,7 @@
 <br>
 
 <!-- introduction of team  -->
-**People involveded in this project:**
+** who involved in this project:**
 > python side : [Ali-Sharify](https://github.com/alisharifyy)
 
 
