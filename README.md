@@ -20,8 +20,8 @@ colorama , requests
 
 How to install :
 
-- pip3 install colorama
-- pip3 install requests
+- [pip install colorama](https://pypi.org/project/colorama/)
+- [pip install requests](https://pypi.org/project/requests/)
 
 
 About : ----
