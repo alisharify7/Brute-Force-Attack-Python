@@ -10,9 +10,9 @@ implementation  of a simple Brute-force attack in python
 
 > php side : [Ali-Rad](https://github.com/Ali-Moattarirad)
 
-
+<!--
 > C# side : [CC-Mehdi](https://github.com/cc-Mehdi)
-
+-->
 
 About : ----
 
