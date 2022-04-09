@@ -1,5 +1,6 @@
 # [Brute-force-attack](https://en.wikipedia.org/wiki/Brute-force_attack)-python
-implementation  of a simple Brute-force attack in python 
+## implementation of a simple Brute-force attack in python
+### using requests library
 
 <br>
 
