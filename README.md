@@ -17,8 +17,8 @@
 ---
 
 **requirement** library :<br>
-1.colorama
-2.requests
+--colorama <br>
+--requests
 
 How to install :
 - [pip install colorama](https://pypi.org/project/colorama/)<br>
