@@ -30,9 +30,8 @@ How to install :
 
 ---
 
-About : ----
 
-image:
+# > image:
 
 # - step 1
 ![](images/1.png)
