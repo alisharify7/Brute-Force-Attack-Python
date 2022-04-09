@@ -18,14 +18,14 @@
 
 **requirement** library :
 colorama , requests
-
----
 <br>
 How to install :
 
 - [pip install colorama](https://pypi.org/project/colorama/)
 - [pip install requests](https://pypi.org/project/requests/)
 
+
+---
 
 About : ----
 
