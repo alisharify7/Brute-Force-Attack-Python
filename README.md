@@ -16,7 +16,7 @@
 -->
 ---
 
-requirement library :
+**requirement** library :
 colorama , requests
 
 ---
