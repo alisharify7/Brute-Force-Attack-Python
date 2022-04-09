@@ -32,7 +32,23 @@ How to install :
 
 About : ----
 
-image: ----
+image:
+
+# - step 1
+![image](images/1.png)
+
+<br>
+
+# - step 2
+![image](images/2.png)
+
+<br>
+
+# - step 3
+![image](images/3.png)
+
+
+
 
 
 
