@@ -21,9 +21,8 @@ colorama , requests
 <br>
 How to install :
 
-- [pip install colorama](https://pypi.org/project/colorama/)
+- [pip install colorama](https://pypi.org/project/colorama/)<br>
  pip install colorama or conda install -c anaconda colorama 
- <br>
 - [pip install requests](https://pypi.org/project/requests/)
 
 
