@@ -31,6 +31,7 @@
 
 # step 1
 - Run Program Via Terminal
+- Be Sure Your Local Host App Like Wamp Or ... Is On
 
 <img src="images/1.png" width="450">
 
