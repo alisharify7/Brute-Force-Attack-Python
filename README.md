@@ -8,10 +8,10 @@
 **who involved in this project:**
 > Python side : [Ali-Sharify](https://github.com/alisharifyy)
 
-> php side : [Ali-Rad](https://github.com/Ali-Moattarirad)
+> Php side : [Ali-Rad](https://github.com/Ali-Moattarirad)
 
 ---
-<h1>requirement library</h1>
+<h1>Requirement Library</h1>
 
 <p style="font-size=35px;" > colorama </p> 
 <p style="font-size=35px;" > requests </p>
@@ -31,7 +31,6 @@
 
 # step 1
 - Run Program Via Terminal
-- Be Sure Your Local Host App Like Wamp Or Xampp ... Is On
 
 <img src="images/1.png" width="450">
 
@@ -51,6 +50,9 @@
 <br>
 
 # **web interface :**
+
+- Be Sure Your Local Host App Like Wamp Or Xampp ... Is On
+- Then in Url bar type : localhost/PROJECT-FOLDER-NAME
 
 <img src="images/log.png" width="450">
 
