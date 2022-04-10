@@ -48,11 +48,11 @@ How to install :
 
 # **web interface :**
 
-<img src="images/log.png" width="350">
+<img src="images/log.png" width="450">
 
-<img src="images/safe.png" width="350">
+<img src="images/safe.png" width="450">
 
-<img src="images/er.png" width="350">
+<img src="images/er.png" width="450">
 
 
 
