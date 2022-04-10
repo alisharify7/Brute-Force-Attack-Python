@@ -30,6 +30,8 @@
 > # images :
 
 # - step 1
+<p> Run Program via terminal</p>
+be sure your local host app like wamp or ... is on
 <img src="images/1.png" width="450">
 
 <br>
