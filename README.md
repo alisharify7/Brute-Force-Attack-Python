@@ -42,12 +42,13 @@ How to install :
 ![](images/3.png)
 
 ---
-web interface :
+# web interface :
+
 ![One](images/log.png)
 
 ![Two](images/safe.png)
 
-![Three](images/er.png)
+![Three](images/er.png){ width: 200px; }
 
 
 
