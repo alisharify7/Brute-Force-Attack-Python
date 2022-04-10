@@ -55,10 +55,11 @@
 - Be Sure Your Local Host App Like Wamp Or Xampp ... Is On
 - Then in Url bar type : localhost/PROJECT-FOLDER-NAME
 
+## login page
 <img src="images/log.png" width="450">
-
+## Safe Page
 <img src="images/safe.png" width="450">
-
+## Error Page
 <img src="images/er.png" width="450">
 
 
