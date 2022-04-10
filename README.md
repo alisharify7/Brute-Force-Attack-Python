@@ -30,8 +30,8 @@
 > # images :
 
 # step 1
-- Run Program via terminal
-- be sure your local host app like wamp or ... is on
+- Run Program Via Terminal
+- Be Sure Your Local Host App Like Wamp Or Xampp ... Is On
 
 <img src="images/1.png" width="450">
 
