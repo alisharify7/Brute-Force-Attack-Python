@@ -13,8 +13,8 @@
 ---
 <h1>requirement library</h1>
 
-<p> colorama </p> 
-<p> requests </p>
+<p style="font-size=22px;" > colorama </p> 
+<p style="font-size=22px;" > requests </p>
 
 How to install :
 - [pip install colorama](https://pypi.org/project/colorama/)<br>
