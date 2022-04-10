@@ -12,8 +12,9 @@
 
 ---
 <h1>requirement library</h1>
-- colorama 
-- requests
+
+<p> colorama </p> 
+<p> requests </p>
 
 How to install :
 - [pip install colorama](https://pypi.org/project/colorama/)<br>
