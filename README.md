@@ -29,17 +29,19 @@ How to install :
 > # images :
 
 # - step 1
-![](images/1.png)
+<img src="images/1.png" width="450">
 
 <br>
 
 # - step 2
-![](images/2.png)
+<img src="images/2.png" width="450">
+
 
 <br>
 
 # - step 3
-![](images/3.png)
+
+<img src="images/3.png" width="450">
 
 ---
 <br>
