@@ -46,13 +46,13 @@ How to install :
 
 # **web interface :**
 
-<img src="images/log.png" width="200">
+<img src="images/log.png" width="350">
 
-![One](images/log.png = 100 * 200)
+<img src="images/safe.png" width="350">
 
-![Two](images/safe.png = 100 * 200)
+<img src="images/er.png" width="350">
 
-![Three](images/er.png = 100 * 200)
+
 
 
 
