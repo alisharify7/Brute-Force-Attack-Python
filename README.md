@@ -29,20 +29,20 @@
 
 > # images :
 
-# - step 1
-<p> Run Program via terminal</p>
-be sure your local host app like wamp or ... is on
+# step 1
+- Run Program via terminal
+- be sure your local host app like wamp or ... is on
 <img src="images/1.png" width="450">
 
 <br>
 
-# - step 2
+# step 2
 <img src="images/2.png" width="450">
 
 
 <br>
 
-# - step 3
+# step 3
 
 <img src="images/3.png" width="450">
 
