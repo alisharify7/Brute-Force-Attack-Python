@@ -52,9 +52,9 @@ with open ("./Pass-File-List/passlist.txt","r") as file:
     passfile = file.read().split()
     lenght = len(passfile)
     i = 0
-    # iterate to all password in list
+    #  iterate over all password in list
     while i <= lenght:
-        # check if we goes to end of pass file so we cant pass and exit
+        # check if we goes to end of pass file so we cant pass and just exit
         if(i == (lenght - 1)):
             print("cant find password :(")
             sys.exit(0)
