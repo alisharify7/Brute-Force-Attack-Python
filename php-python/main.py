@@ -1,11 +1,10 @@
+import pic
 import requests
 from colorama import Fore,init
 import sys
-import pic
 
 init()
 
-# sender function get a password and 
 def sender(username,password,user_input_URL):
     payload={
         "username":username,
@@ -24,6 +23,7 @@ def sender(username,password,user_input_URL):
     elif("WELCOM" in response):
         return True   
 
+
 # main function send password and username to sender function
 def main(user,passcode,number,user_input_user):
 
@@ -38,6 +38,8 @@ def main(user,passcode,number,user_input_user):
         else:
             print(f"{Fore.RED} [{number}] Testing Username: {Fore.WHITE} {user}  {Fore.RED} and Passcode: {Fore.CYAN} {passcode}") 
 
+
+
 # star message
 print("[Hello world and hello to you] :)\nGithub: [AliSharifyy]\nGithub: [Ali-Moattarirad]\n")
 # print(logo)
@@ -45,6 +47,8 @@ print("[] First move Project Folder to your local host Directory")
 print("Enter your Local host addres:  ")
 print("example:\n-> http://localhost/php-python/php/index.php\n-> http://127.0.0.1/php-python/php/index.php")
 user_input_user = input(": ")
+
+
 
 # Open passlist file
 with open ("./Pass-File-List/passlist.txt","r") as file:
@@ -62,14 +66,4 @@ with open ("./Pass-File-List/passlist.txt","r") as file:
         main("admin",passfile[i],i,user_input_user)
         i += 1
         
-
-
-
-
-
-
-
-
-
-
 
