@@ -1,4 +1,4 @@
-import pic
+import logoshow
 import requests
 from colorama import Fore,init
 import sys
@@ -41,6 +41,7 @@ def main(user,passcode,number,user_input_user):
 
 
 # star message
+logoshow.print_lock()
 print("[Hello world and hello to you] :)\nGithub: [AliSharifyy]\nGithub: [Ali-Moattarirad]\n")
 # print(logo)
 print("[] First move Project Folder to your local host Directory")
