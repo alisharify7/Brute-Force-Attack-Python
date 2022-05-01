@@ -60,7 +60,7 @@ with open ("./Pass-File-List/passlist.txt","r") as file:
             print("cant find password :(")
             sys.exit(0)
         # send i[index] in password to sender function to Get is correct or Not
-        main("admin",passfile[i],i,user_input_user)
+        main("admin",str(passfile[i]),i,user_input_user)
         i += 1
         
 
