@@ -5,10 +5,10 @@
 <br>
 
 ---
-**who involved in this project:**
+## who involved in this project:
 
-> Python side : [Ali-Sharify](https://github.com/alisharifyy)
-> Php side : [Ali-Rad](https://github.com/Ali-Moattarirad)
+> Python Side : [Ali-Sharify](https://github.com/alisharifyy)
+> php side : [ali-rad](https://github.com/Ali-Moattarirad)
 
 ---
 <h1>Requirement Library</h1>
