@@ -30,7 +30,7 @@ Requests
      python -m pip install requests
 
 ---
-> # images :
+# images :
 
 # step 1
 - Run Program Via Terminal
