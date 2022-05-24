@@ -12,8 +12,9 @@
 
 ---
 <h1>Requirement Library</h1>
-    Colorama  
-    Requests 
+        
+        Colorama  
+        Requests 
 
 
 ## How to install :
