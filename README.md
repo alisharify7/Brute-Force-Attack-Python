@@ -21,7 +21,8 @@
 
 Colorama
 ------------
-    pip3 install colorama OR conda install -c anaconda colorama 
+    pip3 install colorama 
+    conda install -c anaconda colorama 
 
 Requests
 ----
