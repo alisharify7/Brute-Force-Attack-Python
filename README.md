@@ -8,30 +8,27 @@
 ## who involved in this project:
 
 > Python Side : [Ali-Sharify](https://github.com/alisharifyy)
-
 <br>
- 
 > php side : [ali-rad](https://github.com/Ali-Moattarirad)
 
 ---
 <h1>Requirement Library</h1>
-
     Colorama  
     Requests 
 
 
 ## How to install :
+
 Colorama
 ------------
     pip3 install colorama OR conda install -c anaconda colorama 
+
 Requests
 ----
      python -m pip install requests
      python -m pip install requests
 
 ---
-
-
 > # images :
 
 # step 1
