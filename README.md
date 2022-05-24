@@ -22,6 +22,7 @@
 ## How to install :
 - [pip install colorama](https://pypi.org/project/colorama/)<br>
 
+~~~~~~~
 ::
  pip3 install colorama OR conda install -c anaconda colorama 
 ::
@@ -31,7 +32,7 @@
 ::
  python -m pip install requests
 ::
-
+~~~~~~~
 
 ---
 
