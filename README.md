@@ -16,8 +16,9 @@
 ---
 <h1>Requirement Library</h1>
 
-> <p style="font-size=35px;" > colorama </p> 
-> <p style="font-size=35px;" > requests </p>
+    Colorama  
+    Requests 
+
 
 ## How to install :
 Colorama
