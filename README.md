@@ -21,10 +21,16 @@
 
 ## How to install :
 - [pip install colorama](https://pypi.org/project/colorama/)<br>
- pip3 install colorama OR conda install -c anaconda colorama 
-- [pip install requests](https://pypi.org/project/requests/)<br>
- python -m pip install requests
 
+::
+ pip3 install colorama OR conda install -c anaconda colorama 
+::
+
+- [pip install requests](https://pypi.org/project/requests/)<br>
+
+::
+ python -m pip install requests
+::
 
 
 ---
