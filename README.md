@@ -27,7 +27,7 @@ Colorama
 Requests
 ----
      conda install -c anaconda requests
-     python -m pip install requests
+     pip3 install requests
 
 ---
 # images :
