@@ -26,7 +26,7 @@ Colorama
 
 Requests
 ----
-     python -m pip install requests
+     conda install -c anaconda requests
      python -m pip install requests
 
 ---
