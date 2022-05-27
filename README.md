@@ -36,7 +36,13 @@ Requests
      conda install -c anaconda requests
      pip3 install requests
 
+Or You Can install all Lib with requiremenet file Like:
 ---
+          
+          pip install -r requirements.txt
+
+
+
 # images :
 
 # step 1
