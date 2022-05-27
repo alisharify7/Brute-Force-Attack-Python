@@ -1,7 +1,14 @@
 # [Brute-force-attack](https://en.wikipedia.org/wiki/Brute-force_attack)-python
 ## implementation of a simple Brute-force attack in python
 ### Using requests library
+
+How to clone :
+     
+     git clone https://github.com/alisharifyy/Brute-Force-Attack-Python.git
+     
+
 ---
+
 ## who involved in this project:
 
 > Python Side : [Ali-Sharify](https://github.com/alisharifyy)
